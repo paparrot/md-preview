@@ -1,24 +1,28 @@
 # md-preview
 
-## Project setup
-```
+![md-pv](https://user-images.githubusercontent.com/59335849/134822967-3300f719-37af-48c8-955c-01b8036fff25.png)
+
+## [Демо](https://md-pv.paparrot.vercel.app/)
+
+## Локальная установка
+```bash
+# 1. Копирование проекта с Github.
+git clone git@github.com:paparrot/md-preview.git
+# 2. Установка зависимостей
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Сборка проекта для разработки
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Сборка для production
 ```
 yarn build
 ```
 
-### Lints and fixes files
+### Линтинг проекта
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
